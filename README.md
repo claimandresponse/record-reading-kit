@@ -4,6 +4,8 @@ A worksheet and five source examples for checking what a public record says, who
 
 Start with the [Claim & Response methodology](https://claimandresponse.com/methodology/). Use the [source examples CSV](SourceExamples.csv) to open the original documents and the related archive records.
 
+The [ten record-reading guides](guides/README.md) include transcripts, captions and exercises that use public sources.
+
 ## Record worksheet
 
 1. **Identify the matter.** Record the names of the parties, the deciding authority, the case or reference number and the jurisdiction. Keep similarly named people or businesses separate.
